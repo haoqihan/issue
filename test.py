@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8 
-# @Time   : test.py
 # @Author : Derek
 # @File   : 2019/1/24 17:27
 import smtplib
