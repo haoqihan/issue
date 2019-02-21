@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# @Author : Derek
 # @File   : 2019/1/24 17:27
 import smtplib
 from email.mime.multipart import MIMEMultipart
